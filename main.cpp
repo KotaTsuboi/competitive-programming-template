@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 #include "union_find.hpp"
+#include "mod_int.hpp"
 
 using namespace std;
 
