@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 #include "union_find.hpp"
 #include "mod_int.hpp"
+#include "segment_tree/rmq.hpp"
+#include "segment_tree/rsq.hpp"
 
 using namespace std;
 
